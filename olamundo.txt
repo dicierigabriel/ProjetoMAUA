@@ -1,0 +1,2 @@
+Sashagray é virgem, se vc concorda é só apertar I
+para abrir o VI: vi nomearquivo
